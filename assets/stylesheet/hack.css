@@ -1,7 +1,7 @@
 body{
-    background-image: url("...assets/media/ipl.jpg");
+    background-image: url("../media/ipl-2018-wallpapers-download.jpg");
     font-family: 'Anton', sans-serif;
-    background-size: stretch;
+    background-size: cover;
 }
 p{
     font-size: 60px;
